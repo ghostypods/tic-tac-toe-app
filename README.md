@@ -7,5 +7,6 @@
     <li>Download the latest release</li>
     <li>Once downloaded, extract the .zip file</li>
     <li>Open the game (.exe file)</li>
+    <li>Your antivirus software may pop up a warning, but you can allow this game to run. I used pyinstaller for this, so that happens.</li>
     <li><strong>(Optional)</strong> Create a shortcut to the game, right-click on the game (.exe) file and click 'Create shortcut'. Drag the created shortcut to your desktop for easier access to open the game.</li>
 </ol>
